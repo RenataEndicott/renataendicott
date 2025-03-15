@@ -44,6 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/renataendicott/renataendicott/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/renataendicott/renataendicott/output/snake.svg" alt="Snake animation" />
 
 ###
